@@ -3,7 +3,7 @@ Author: Kayode Adejuwon
 Date: 4/25/2020
 Teacher: Dr. Tyson McMillan
 //A  Restaurant Project to translating a struct program to a slass style 
-//program, then creating all functions to get input and checking out as well as printing a ticket
+//program to get input and checking out as well as printing a ticket
 
 #include <iostream>
 #include<string>
